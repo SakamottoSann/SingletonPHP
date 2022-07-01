@@ -2,6 +2,9 @@
  Padrão de Projeto com PHP
 ````
 ````
+### Video
+[Video SingletonPHP](https://www.youtube.com/watch?v=vRAuWPZ4LUc)
+
 ### Definição:
 
 Singleton é um padrão de projeto de software. Ele permite que uma determinada classe seja instanciada uma única vez durante todo tempo de execução de um programa. A classe gerencia sua própria instância e evita que outras classes a instanciem. Ele é considerado um Padrão de projeto de criação. Muito usado em Drivers que necessitam de um único ponto de acesso global para seus recursos.
